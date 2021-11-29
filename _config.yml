@@ -28,11 +28,11 @@ your_name: t4ipan
 email: t4ipan_scriptkiddie@protonmail.com
 
 navigation:
-  - text: Inicio
+  - text: Home
     url: /
-  - text: Repositorios
+  - text: Docs
     url: /docs
-  - text: Ejemplos
+  - text: Examples
     url: /examples
 
 projects:
