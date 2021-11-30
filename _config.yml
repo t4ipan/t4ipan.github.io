@@ -31,9 +31,9 @@ navigation:
   - text: Home
     url: /
   - #text: Docs
-    url: /docs
+    #url: /docs
   - #text: Examples
-    url: /examples
+    #url: /examples
 
 projects:
   - name: git-secret
