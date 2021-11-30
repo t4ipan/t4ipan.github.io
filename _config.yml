@@ -10,7 +10,7 @@ title: t4ipan webpage
 description: > # this means to ignore newlines until "baseurl:"
   learn, create, share
 repository: https://github.com/t4ipan
-baseurl: /  # the subpath of your site, e.g. /blog
+baseurl: /home  # the subpath of your site, e.g. /blog
 url: https://t4ipan.github.io  # the base hostname & protocol for your site
 
 # Build settings
