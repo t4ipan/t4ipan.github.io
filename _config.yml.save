@@ -7,9 +7,9 @@
 
 # Site settings
 title: t4ipan webpage
-description: > # this means to ignore newlines until "baseurl:"
-  learn, create, share
-repository: https://github.com/t4ipan
+description: > # this means to ignore newlines until "baseurl:
+  Aquí es donde iré recopilando todo lo que vaya programando, aprendiendo y creando.
+repository: https://github.com/wemake-services/jekyll-theme-hackcss
 baseurl: /  # the subpath of your site, e.g. /blog
 url: https://t4ipan.github.io  # the base hostname & protocol for your site
 
@@ -30,9 +30,9 @@ email: t4ipan_scriptkiddie@protonmail.com
 navigation:
   - text: Home
     url: /
-  - #text: Docs
+  - text: Docs
     url: /docs
-  - #text: Examples
+  - text: Examples
     url: /examples
 
 projects:
@@ -55,9 +55,9 @@ social:
   - service: github
     username: t4ipan
     link: https://github.com/t4ipan
-  - #service: twitter
-    #username: sobolevn
-    #link: https://twitter.com/sobolevn
+  - service: twitter
+    username: sobolevn
+    link: https://twitter.com/sobolevn
 
 # Plugins
 gems:
