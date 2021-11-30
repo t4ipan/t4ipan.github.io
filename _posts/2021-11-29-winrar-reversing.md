@@ -6,4 +6,4 @@ categories: reversing
 short_description: en este post explicaré los pasos que seguí para patchear winrar mediante ingerniería inversa utilizando un debugger
 image_preview: https://i.blogs.es/107228/winrar/450_1000.jpg
 ---
-asdsadsakdsdksmkalkfjsalkfjasfldkjaslkdjaldkjakdjlsadjasldkjsaldksajd
+post en obras
